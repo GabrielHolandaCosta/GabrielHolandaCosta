@@ -49,7 +49,7 @@
 ## 📊 Performance no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielholandacosta&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielHolandaCosta&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielholandacosta&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 
