@@ -64,6 +64,6 @@
     <img src="https://img.shields.io/badge/@ogabrielholanda-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://gabrielholandacosta.github.io/portfolioGabriel" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-1a1a1a?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfólio" />
+    <img src="https://img.shields.io/badge/Portfólio-1a1a1a?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfólio Web" />
   </a>
 </p>
