@@ -1,73 +1,75 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake de Contribuições" style="max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contributions Snake" style="max-width: 100%;">
 </p>
 
 <h1 align="center">🚀 Gabriel Holanda | Front-End Developer</h1>
 
 <p align="center">
-  Desenvolvedor Front-End com experiência prática em desenvolvimento web, trabalhando com projetos institucionais e soluções digitais.<br>
-  Especializado em criar interfaces responsivas, acessíveis e de alta performance usando tecnologias modernas.
+  Front-End Developer with hands-on experience in web development, working with institutional projects and digital solutions.<br>
+  Specialized in creating responsive, accessible, and high-performance interfaces using modern technologies.
 </p>
 
 <div align="center">
   <a href="https://gabrielholandacosta.github.io/portfolioGabriel" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfólio" />
+    <img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
+  <a href="https://www.linkedin.com/in/gabrielholandadev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:seu-email@exemplo.com">
+  <a href="mailto:ugabrielprofissional@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
 ---
 
-## 💼 Experiência Profissional
+## 💼 Professional Experience
 
-### **Front-End Developer** — FUNDEPES
-**Nov 2025 – Presente | Maceió, AL**
-- Desenvolvimento front-end focado em projetos **PNLD** em parceria com **NEES/UFAL**
-- Implementação de melhorias visuais e correções em materiais digitais educacionais
-- Validação, revisão e padronização de conteúdo, garantindo organização, consistência e **acessibilidade web**
-- Correção de marcação HTML, estrutura e componentes, apoiando a equipe na preparação técnica de materiais antes da publicação
-- Trabalho colaborativo em equipe multidisciplinar seguindo padrões de qualidade
+### **Front-End Developer** — Federal Project
+**Present**
+- Front-end development for a **federal educational project (PNLD)** in partnership with **UFAL** (Federal University of Alagoas)
+- **Corrected and reviewed over 100+ digital educational works**, ensuring quality and compliance
+- Implementation of visual improvements and corrections in educational digital materials
+- Content validation, review, and standardization, ensuring organization, consistency, and **web accessibility**
+- HTML markup, structure, and component corrections, supporting the team in technical preparation of materials before publication
+- Collaborative work in a multidisciplinary team following quality standards
 
 ### **Front-End Tutor** — UNINASSAU
-**Mar 2024 – Dez 2024 | Maceió, AL**
-- Suporte presencial para aprendizado de **HTML** e **CSS** em sala de aula
-- Desenvolvimento de projetos educacionais práticos
-- Orientação e mentoria de estudantes iniciantes em desenvolvimento web
+**Mar 2024 – Dec 2024 | Maceió, AL**
+- Hands-on classroom support for **HTML** and **CSS** learning
+- Development of practical educational projects
+- Guidance and mentorship for beginner web development students
 
-### **Desenvolvedor Freelancer**
-- Desenvolvimento de landing pages responsivas focadas em conversão
-- Criação de sites personalizados com **HTML, CSS, JavaScript** e **Bootstrap**
-- Gerenciamento completo do ciclo de desenvolvimento: design, implementação e deploy
+### **Freelance Developer**
+- Development of responsive, conversion-focused landing pages
+- Creation of custom websites with **HTML, CSS, JavaScript**, and **Bootstrap**
+- Full development cycle management: design, implementation, and deploy
 
 ---
 
-## 🎯 Projetos em Destaque
+## 🎯 Featured Projects
 
 ### [**AdminFlow Dashboard**](https://github.com/GabrielHolandaCosta/adminflow-dashboard)
-**Dashboard Administrativo Completo em React + TypeScript**
-- ✅ Sistema completo de autenticação com persistência de sessão
-- ✅ Controle de acesso baseado em perfis (Admin/User)
-- ✅ CRUD completo para usuários e tarefas com regras de negócio
-- ✅ Internacionalização (pt-BR, en, es) com react-i18next
-- ✅ Rotas protegidas e validações
-- ✅ Interface totalmente responsiva
+**Complete Administrative Dashboard in React + TypeScript**
+- ✅ Complete authentication system with session persistence
+- ✅ Role-based access control (Admin/User)
+- ✅ Full CRUD for users and tasks with business rules
+- ✅ Internationalization (pt-BR, en, es) with react-i18next
+- ✅ Protected routes and validations
+- ✅ Fully responsive interface
 - 🔗 [Live Demo](https://adminflow-dashboard.vercel.app)
 
 ### [**ShopCart**](https://github.com/GabrielHolandaCosta/shopcart)
-**E-commerce Completo**
-- ✅ Sistema de carrinho de compras funcional
-- ✅ Gerenciamento de produtos e categorias
-- ✅ Interface moderna e responsiva
-- ✅ Experiência de usuário otimizada
+**Complete E-commerce**
+- ✅ Functional shopping cart system
+- ✅ Product and category management
+- ✅ Modern and responsive interface
+- ✅ Optimized user experience
+- 🔗 [Live Demo](https://shopcart-bice.vercel.app)
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🛠️ Tech Stack
 
 ### **Front-End Core**
 <p align="center">
@@ -78,14 +80,14 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 </p>
 
-### **Frameworks & Bibliotecas**
+### **Frameworks & Libraries**
 <p align="center">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
   <img src="https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&logo=i18next&logoColor=white" alt="i18next" />
 </p>
 
-### **Ferramentas & Deploy**
+### **Tools & Deploy**
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -97,52 +99,40 @@
 
 ---
 
-## ✨ Principais Habilidades
+## ✨ Key Skills
 
-- 🎨 **UI/UX Design** — Criação de interfaces intuitivas e acessíveis
-- 📱 **Responsive Design** — Desenvolvimento mobile-first
-- ⚡ **Performance Optimization** — Otimização de velocidade e carga
-- 🔒 **Accessibility (a11y)** — Experiência em padrões de acessibilidade web
-- 🤝 **Trabalho em Equipe** — Colaboração eficiente em projetos institucionais
-- 📚 **Documentation** — Organização e padronização de código
+- 🎨 **UI/UX Design** — Creating intuitive and accessible interfaces
+- 📱 **Responsive Design** — Mobile-first development
+- ⚡ **Performance Optimization** — Speed and load optimization
+- 🔒 **Accessibility (a11y)** — Experience with web accessibility standards
+- 🤝 **Team Collaboration** — Efficient collaboration on institutional projects
+- 📚 **Documentation** — Code organization and standardization
 
 ---
 
-## 📊 Estatísticas GitHub
+## 🎓 Education & Continuous Learning
+
+- 📚 Continuous learning in modern front-end technologies
+- 🔄 Keeping up-to-date with web development best practices
+- 💡 Exploring new tools and methodologies to improve project quality
+
+---
+
+## 🤝 Let's Connect!
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielholandacosta&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielholandacosta&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Linguagens mais usadas" />
-</div>
-
----
-
-## 🎓 Educação & Aprendizado Contínuo
-
-- 📚 Aprendizado contínuo em tecnologias modernas de front-end
-- 🔄 Mantendo-me atualizado com as melhores práticas de desenvolvimento web
-- 💡 Explorando novas ferramentas e metodologias para melhorar a qualidade dos projetos
-
----
-
-## 🤝 Vamos Conectar!
-
-<div align="center">
-  <p>Estou sempre aberto a novas oportunidades, colaborações e conexões!</p>
+  <p>I'm always open to new opportunities, collaborations, and connections!</p>
   <a href="https://gabrielholandacosta.github.io/portfolioGabriel" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfólio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://instagram.com/ogabrielholanda" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://discord.gg/1n1xghtt" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
 </div>
 
 ---
 
 <div align="center">
-  <p>💼 <strong>Disponível para oportunidades de Front-End Developer Júnior</strong></p>
-  <p>Desenvolvido com ❤️ por Gabriel Holanda</p>
+  <p>💼 <strong>Available for Front-End Developer Junior opportunities</strong></p>
+  <p>Developed with ❤️ by Gabriel Holanda</p>
 </div>
