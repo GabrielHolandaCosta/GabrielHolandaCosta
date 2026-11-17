@@ -25,19 +25,19 @@
 
 ## 💼 Professional Experience
 
-### **IT Intern | Technical Support & Infrastructure** — MEDRADIUS[cite: 1]
-**Nov 2026 – Present | Maceió, AL**[cite: 1]
-- Technical support and IT infrastructure management, ensuring system and equipment availability[cite: 1]
-- Assistance in the **maintenance and updating of internal systems, applications, and databases**[cite: 1]
-- Participation in **internal process automation** initiatives and continuous improvements[cite: 1]
-- User access management, corporate system permissions, and **information security** best practices[cite: 1]
-- Network infrastructure support, connectivity troubleshooting, and technical documentation[cite: 1]
+### **IT Intern | Technical Support & Infrastructure** — MEDRADIUS
+**Nov 2026 – Present | Maceió, AL**
+- Technical support and IT infrastructure management, ensuring system and equipment availability
+- Assistance in the **maintenance and updating of internal systems, applications, and databases**
+- Participation in **internal process automation** initiatives and continuous improvements
+- User access management, corporate system permissions, and **information security** best practices
+- Network infrastructure support, connectivity troubleshooting, and technical documentation
 
-### **IT Intern | Technical Support & Infrastructure** — Hospital Vida[cite: 2]
-**Jun 2026 – Nov 2026 | Maceió, AL**[cite: 2]
-- End-to-end technical ticket management and IT infrastructure support across hospital departments[cite: 2]
-- Network diagnostics and configuration (**IP addressing, Gateway, DNS**, and structured cabling)[cite: 2]
-- Preventive and corrective maintenance of hardware, operating systems, and network peripherals[cite: 2]
+### **IT Intern | Technical Support & Infrastructure** — Hospital Vida
+**Jun 2026 – Nov 2026 | Maceió, AL**
+- End-to-end technical ticket management and IT infrastructure support across hospital departments
+- Network diagnostics and configuration (**IP addressing, Gateway, DNS**, and structured cabling)
+- Preventive and corrective maintenance of hardware, operating systems, and network peripherals
 
 ### **Front-End Developer** — Federal Project (PNLD / UFAL)
 **Institutional Project | Maceió, AL**
@@ -112,8 +112,8 @@
 - 🎨 **UI/UX & Responsive Design** — Intuitive, mobile-first interfaces
 - ⚡ **Performance Optimization** — Speed, clean code, and load optimization
 - 🔒 **Web Accessibility (a11y)** — Compliance with digital accessibility standards
-- 🛠️ **IT Infrastructure & Support** — Networks, systems maintenance, and process automation[cite: 1, 2]
-- 🤝 **Team Collaboration & Documentation** — Technical standards and multidisciplinary teamwork[cite: 1]
+- 🛠️ **IT Infrastructure & Support** — Networks, systems maintenance, and process automation
+- 🤝 **Team Collaboration & Documentation** — Technical standards and multidisciplinary teamwork
 
 ---
 
