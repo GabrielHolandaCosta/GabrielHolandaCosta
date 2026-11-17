@@ -5,8 +5,8 @@
 <h1 align="center">🚀 Gabriel Holanda | Front-End Developer</h1>
 
 <p align="center">
-  Front-End Developer with hands-on experience in web development, working with institutional projects and digital solutions.<br>
-  Specialized in creating responsive, accessible, and high-performance interfaces using modern technologies.
+  Front-End Developer and Computer Science student with hands-on experience in web development, institutional projects, and IT infrastructure.<br>
+  Specialized in building responsive, accessible, and high-performance interfaces using modern technologies.
 </p>
 
 <div align="center">
@@ -25,25 +25,35 @@
 
 ## 💼 Professional Experience
 
-### **Front-End Developer** — Federal Project
-**Present**
+### **IT Intern | Technical Support & Infrastructure** — MEDRADIUS[cite: 1]
+**Nov 2026 – Present | Maceió, AL**[cite: 1]
+- Technical support and IT infrastructure management, ensuring system and equipment availability[cite: 1]
+- Assistance in the **maintenance and updating of internal systems, applications, and databases**[cite: 1]
+- Participation in **internal process automation** initiatives and continuous improvements[cite: 1]
+- User access management, corporate system permissions, and **information security** best practices[cite: 1]
+- Network infrastructure support, connectivity troubleshooting, and technical documentation[cite: 1]
+
+### **IT Intern | Technical Support & Infrastructure** — Hospital Vida[cite: 2]
+**Jun 2026 – Nov 2026 | Maceió, AL**[cite: 2]
+- End-to-end technical ticket management and IT infrastructure support across hospital departments[cite: 2]
+- Network diagnostics and configuration (**IP addressing, Gateway, DNS**, and structured cabling)[cite: 2]
+- Preventive and corrective maintenance of hardware, operating systems, and network peripherals[cite: 2]
+
+### **Front-End Developer** — Federal Project (PNLD / UFAL)
+**Institutional Project | Maceió, AL**
 - Front-end development for a **federal educational project (PNLD)** in partnership with **UFAL** (Federal University of Alagoas)
-- **Corrected and reviewed over 100+ digital educational works**, ensuring quality and compliance
-- Implementation of visual improvements and corrections in educational digital materials
-- Content validation, review, and standardization, ensuring organization, consistency, and **web accessibility**
-- HTML markup, structure, and component corrections, supporting the team in technical preparation of materials before publication
-- Collaborative work in a multidisciplinary team following quality standards
+- **Corrected and reviewed 100+ digital educational works**, ensuring technical quality, HTML semantic structure, and compliance
+- Content validation and standardization focused on **web accessibility (a11y)** and visual consistency
+- Collaborative work in a multidisciplinary team following strict publishing standards
 
 ### **Front-End Tutor** — UNINASSAU
 **Mar 2024 – Dec 2024 | Maceió, AL**
 - Hands-on classroom support for **HTML** and **CSS** learning
-- Development of practical educational projects
-- Guidance and mentorship for beginner web development students
+- Development of practical educational projects and mentorship for beginner web development students
 
-### **Freelance Developer**
-- Development of responsive, conversion-focused landing pages
-- Creation of custom websites with **HTML, CSS, JavaScript**, and **Bootstrap**
-- Full development cycle management: design, implementation, and deploy
+### **Freelance Web Developer**
+- Development of responsive, conversion-focused landing pages and custom websites with **HTML, CSS, JavaScript**, and **Bootstrap**
+- Full development cycle management: design, implementation, and deployment
 
 ---
 
@@ -54,17 +64,15 @@
 - ✅ Complete authentication system with session persistence
 - ✅ Role-based access control (Admin/User)
 - ✅ Full CRUD for users and tasks with business rules
-- ✅ Internationalization (pt-BR, en, es) with react-i18next
-- ✅ Protected routes and validations
-- ✅ Fully responsive interface
+- ✅ Internationalization (pt-BR, en, es) with `react-i18next`
+- ✅ Protected routes, validations, and responsive interface
 - 🔗 [Live Demo](https://adminflow-dashboard.vercel.app)
 
 ### [**ShopCart**](https://github.com/GabrielHolandaCosta/shopcart)
-**Complete E-commerce**
-- ✅ Functional shopping cart system
-- ✅ Product and category management
-- ✅ Modern and responsive interface
-- ✅ Optimized user experience
+**Complete E-commerce Application**
+- ✅ Functional shopping cart system and state management
+- ✅ Product and category filtering/management
+- ✅ Modern, responsive, and user-optimized interface
 - 🔗 [Live Demo](https://shopcart-bice.vercel.app)
 
 ---
@@ -101,27 +109,25 @@
 
 ## ✨ Key Skills
 
-- 🎨 **UI/UX Design** — Creating intuitive and accessible interfaces
-- 📱 **Responsive Design** — Mobile-first development
-- ⚡ **Performance Optimization** — Speed and load optimization
-- 🔒 **Accessibility (a11y)** — Experience with web accessibility standards
-- 🤝 **Team Collaboration** — Efficient collaboration on institutional projects
-- 📚 **Documentation** — Code organization and standardization
+- 🎨 **UI/UX & Responsive Design** — Intuitive, mobile-first interfaces
+- ⚡ **Performance Optimization** — Speed, clean code, and load optimization
+- 🔒 **Web Accessibility (a11y)** — Compliance with digital accessibility standards
+- 🛠️ **IT Infrastructure & Support** — Networks, systems maintenance, and process automation[cite: 1, 2]
+- 🤝 **Team Collaboration & Documentation** — Technical standards and multidisciplinary teamwork[cite: 1]
 
 ---
 
-## 🎓 Education & Continuous Learning
+## 🎓 Education
 
-- 📚 Continuous learning in modern front-end technologies
-- 🔄 Keeping up-to-date with web development best practices
-- 💡 Exploring new tools and methodologies to improve project quality
+- 🎓 **B.Sc. in Computer Science** — UNINASSAU (In progress)
+- 📚 Continuous specialization in modern Front-End architecture, TypeScript, and software engineering best practices
 
 ---
 
 ## 🤝 Let's Connect!
 
 <div align="center">
-  <p>I'm always open to new opportunities, collaborations, and connections!</p>
+  <p>I'm always open to new opportunities, collaborations, and tech discussions!</p>
   <a href="https://gabrielholandacosta.github.io/portfolioGabriel" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
@@ -133,6 +139,6 @@
 ---
 
 <div align="center">
-  <p>💼 <strong>Available for Front-End Developer Junior opportunities</strong></p>
+  <p>💼 <strong>Open to Junior Front-End Developer & Software Engineering opportunities</strong></p>
   <p>Developed with ❤️ by Gabriel Holanda</p>
 </div>
